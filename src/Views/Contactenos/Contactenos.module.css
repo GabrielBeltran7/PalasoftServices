@@ -7,8 +7,6 @@
   justify-content: center;
   flex-direction: column;
 }
-
-/* Estilo del Encabezado */
 .header {
   background-color: #FFA500;
   margin-bottom: 20px;
